@@ -5,4 +5,3 @@
   height="300"
 />
 </a>
-<div>Hyo는 BaBoda</div>
